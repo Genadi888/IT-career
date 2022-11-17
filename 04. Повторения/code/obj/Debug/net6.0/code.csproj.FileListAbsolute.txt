@@ -1,0 +1,15 @@
+E:\ИТ кариера\04. Повторения\code\bin\Debug\net6.0\code.exe
+E:\ИТ кариера\04. Повторения\code\bin\Debug\net6.0\code.deps.json
+E:\ИТ кариера\04. Повторения\code\bin\Debug\net6.0\code.runtimeconfig.json
+E:\ИТ кариера\04. Повторения\code\bin\Debug\net6.0\code.dll
+E:\ИТ кариера\04. Повторения\code\bin\Debug\net6.0\ref\code.dll
+E:\ИТ кариера\04. Повторения\code\bin\Debug\net6.0\code.pdb
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.dll
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\ref\code.dll
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.pdb
+E:\ИТ кариера\04. Повторения\code\obj\Debug\net6.0\code.genruntimeconfig.cache
