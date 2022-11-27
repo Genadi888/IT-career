@@ -1,0 +1,15 @@
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\bin\Debug\net6.0\New Coin.exe
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\bin\Debug\net6.0\New Coin.deps.json
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\bin\Debug\net6.0\New Coin.runtimeconfig.json
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\bin\Debug\net6.0\New Coin.dll
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\bin\Debug\net6.0\ref\New Coin.dll
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\bin\Debug\net6.0\New Coin.pdb
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.csproj.AssemblyReference.cache
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.AssemblyInfoInputs.cache
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.AssemblyInfo.cs
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.csproj.CoreCompileInputs.cache
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.dll
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\ref\New Coin.dll
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.pdb
+E:\ИТ кариера\06. Практически изпит\Afternoon\New Coin\obj\Debug\net6.0\New Coin.genruntimeconfig.cache
