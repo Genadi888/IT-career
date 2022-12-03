@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Магически числа", "6. Магически числа\6. Магически числа.csproj", "{9848BBF3-21A7-4217-8D87-4156A2C1EDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Деление без остатък", "2. Деление без остатък\2. Деление без остатък.csproj", "{C8489FC6-0DD7-4082-9E91-C0465800E27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Чертане на крепост", "3. Чертане на крепост\3. Чертане на крепост.csproj", "{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9848BBF3-21A7-4217-8D87-4156A2C1EDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9848BBF3-21A7-4217-8D87-4156A2C1EDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9848BBF3-21A7-4217-8D87-4156A2C1EDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9848BBF3-21A7-4217-8D87-4156A2C1EDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8489FC6-0DD7-4082-9E91-C0465800E27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8489FC6-0DD7-4082-9E91-C0465800E27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8489FC6-0DD7-4082-9E91-C0465800E27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8489FC6-0DD7-4082-9E91-C0465800E27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94522A7A-3E73-4BB3-A01E-14E51B3BB052}
+	EndGlobalSection
+EndGlobal
