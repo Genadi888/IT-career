@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Деление без о
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Чертане на крепост", "3. Чертане на крепост\3. Чертане на крепост.csproj", "{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тръби в басейн", "Тръби в басейн\Тръби в басейн.csproj", "{31313871-66B8-47C0-AAD5-8DBC4B4282C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D85A97A6-D263-4ECD-9B2D-A56D58E3F3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31313871-66B8-47C0-AAD5-8DBC4B4282C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31313871-66B8-47C0-AAD5-8DBC4B4282C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31313871-66B8-47C0-AAD5-8DBC4B4282C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31313871-66B8-47C0-AAD5-8DBC4B4282C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
