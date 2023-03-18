@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. StringBuilder", "1. StringBuilder\1. StringBuilder.csproj", "{BA948C60-AF9F-422E-8D44-842F0CCB155D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Karate Strings", "4. Karate Strings\4. Karate Strings.csproj", "{2FCD4CC8-6956-46A0-AB9E-2924AE207F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA948C60-AF9F-422E-8D44-842F0CCB155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA948C60-AF9F-422E-8D44-842F0CCB155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA948C60-AF9F-422E-8D44-842F0CCB155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA948C60-AF9F-422E-8D44-842F0CCB155D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCD4CC8-6956-46A0-AB9E-2924AE207F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCD4CC8-6956-46A0-AB9E-2924AE207F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCD4CC8-6956-46A0-AB9E-2924AE207F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCD4CC8-6956-46A0-AB9E-2924AE207F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C979675B-C8B9-4A9C-92B0-8B079A97F852}
+	EndGlobalSection
+EndGlobal

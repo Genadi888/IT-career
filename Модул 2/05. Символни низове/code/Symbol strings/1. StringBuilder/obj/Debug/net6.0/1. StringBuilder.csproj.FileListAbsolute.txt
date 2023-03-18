@@ -1,0 +1,15 @@
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\bin\Debug\net6.0\1. StringBuilder.exe
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\bin\Debug\net6.0\1. StringBuilder.deps.json
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\bin\Debug\net6.0\1. StringBuilder.runtimeconfig.json
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\bin\Debug\net6.0\1. StringBuilder.dll
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\bin\Debug\net6.0\1. StringBuilder.pdb
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.csproj.AssemblyReference.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.AssemblyInfoInputs.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.AssemblyInfo.cs
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.csproj.CoreCompileInputs.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.dll
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\refint\1. StringBuilder.dll
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.pdb
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\1. StringBuilder.genruntimeconfig.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\1. StringBuilder\obj\Debug\net6.0\ref\1. StringBuilder.dll

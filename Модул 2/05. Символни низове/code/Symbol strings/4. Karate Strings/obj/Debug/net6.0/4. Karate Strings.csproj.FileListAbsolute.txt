@@ -1,0 +1,15 @@
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\bin\Debug\net6.0\4. Karate Strings.exe
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\bin\Debug\net6.0\4. Karate Strings.deps.json
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\bin\Debug\net6.0\4. Karate Strings.runtimeconfig.json
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\bin\Debug\net6.0\4. Karate Strings.dll
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\bin\Debug\net6.0\4. Karate Strings.pdb
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.csproj.AssemblyReference.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.AssemblyInfoInputs.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.AssemblyInfo.cs
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.csproj.CoreCompileInputs.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.dll
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\refint\4. Karate Strings.dll
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.pdb
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\4. Karate Strings.genruntimeconfig.cache
+E:\ИТ кариера\Модул 2\05. Символни низове\code\Symbol strings\4. Karate Strings\obj\Debug\net6.0\ref\4. Karate Strings.dll
