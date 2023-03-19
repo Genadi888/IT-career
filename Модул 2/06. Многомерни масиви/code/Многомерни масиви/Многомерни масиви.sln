@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.  Минимум по колони", "3. Минимум по колони\3.  Минимум по колони.csproj", "{D566E937-8144-40C7-9F35-1323EC8C9362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.  Лотариен Билет", "4.  Лотариен Билет\4.  Лотариен Билет.csproj", "{1C47F4EA-C1F9-49AF-AFDD-3670121EAFF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D566E937-8144-40C7-9F35-1323EC8C9362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D566E937-8144-40C7-9F35-1323EC8C9362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D566E937-8144-40C7-9F35-1323EC8C9362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D566E937-8144-40C7-9F35-1323EC8C9362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C47F4EA-C1F9-49AF-AFDD-3670121EAFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C47F4EA-C1F9-49AF-AFDD-3670121EAFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C47F4EA-C1F9-49AF-AFDD-3670121EAFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C47F4EA-C1F9-49AF-AFDD-3670121EAFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {474B8716-C88F-4BAB-BCDF-BD295E37CA73}
+	EndGlobalSection
+EndGlobal
