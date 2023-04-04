@@ -1,0 +1,15 @@
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\bin\Debug\net6.0\Anonymous Downsite.exe
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\bin\Debug\net6.0\Anonymous Downsite.deps.json
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\bin\Debug\net6.0\Anonymous Downsite.runtimeconfig.json
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\bin\Debug\net6.0\Anonymous Downsite.dll
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\bin\Debug\net6.0\Anonymous Downsite.pdb
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.csproj.AssemblyReference.cache
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.AssemblyInfoInputs.cache
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.AssemblyInfo.cs
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.csproj.CoreCompileInputs.cache
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.dll
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\refint\Anonymous Downsite.dll
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.pdb
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\Anonymous Downsite.genruntimeconfig.cache
+E:\ИТ кариера\Модул 2\08. Практически изпит\code\Изпитни задачи\Anonymous Downsite\obj\Debug\net6.0\ref\Anonymous Downsite.dll
