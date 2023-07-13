@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Рекурсивна сума на масив", "1. Рекурсивна сума на масив\1. Рекурсивна сума на масив.csproj", "{79D8B219-2FF6-4728-B0F6-5C8413342598}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Рекурсивна сума на масив", "1. Рекурсивна сума на масив\1. Рекурсивна сума на масив.csproj", "{79D8B219-2FF6-4728-B0F6-5C8413342598}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Рекурсивен факториел", "2. Рекурсивен факториел\2. Рекурсивен факториел.csproj", "{2A8387D4-1373-4D94-ADDE-1F02E7633620}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Рекурсивен факториел", "2. Рекурсивен факториел\2. Рекурсивен факториел.csproj", "{2A8387D4-1373-4D94-ADDE-1F02E7633620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Рекурсивно чертаене", "3. Рекурсивно чертаене\3. Рекурсивно чертаене.csproj", "{3F47C9D1-EED4-4016-8862-2A4CF27AC193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Генериране на комбинации", "5. Генериране на комбинации\5. Генериране на комбинации.csproj", "{B10C47AC-3516-4398-B2E0-612E224E524C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{2A8387D4-1373-4D94-ADDE-1F02E7633620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A8387D4-1373-4D94-ADDE-1F02E7633620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A8387D4-1373-4D94-ADDE-1F02E7633620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F47C9D1-EED4-4016-8862-2A4CF27AC193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F47C9D1-EED4-4016-8862-2A4CF27AC193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F47C9D1-EED4-4016-8862-2A4CF27AC193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F47C9D1-EED4-4016-8862-2A4CF27AC193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10C47AC-3516-4398-B2E0-612E224E524C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10C47AC-3516-4398-B2E0-612E224E524C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10C47AC-3516-4398-B2E0-612E224E524C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10C47AC-3516-4398-B2E0-612E224E524C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
